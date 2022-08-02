@@ -1,2 +1,2 @@
 #salve rapaziada
-print("hello word")
+print("tamo junto, rapaziada")
